@@ -1,5 +1,5 @@
 # OSP_Algorithms
-NWU-CSE-3202 Operating System Programming Algorithms (CPU Scheduling, Page Replacement etc.)
+NWU-CSE-3202 Operating System Programming Algorithms (CPU Scheduling, DeadLock Avoid, Page Replacement etc.)
 
 1. CPU Scheduling Algorithms:
    1. FCFS (First Come First Serve).c
